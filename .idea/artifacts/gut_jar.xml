@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="gut:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/gut_jar</output-path>
+    <root id="archive" name="gut.jar">
+      <element id="module-output" name="gut" />
+    </root>
+  </artifact>
+</component>
